@@ -13,6 +13,12 @@ flowchart LR
     C --> D[Wakatime CLI]
 ```
 
+## Why?
+
+Right now the [Zed Editor](https://zed.dev) has [no way for extensions to execute arbitrary code](https://github.com/zed-industries/zed/issues/10795). Instead, extensions can either be LSP clients or themes.
+
+Even when Zed gets the ability to execute arbitrary code, it would be nice to have a way to create Wakatime plugins for any editor or thing that supports LSPs.
+
 ## Status
 
 Right now it's just an idea. I might start a PoC by the end of the week.
