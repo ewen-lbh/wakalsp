@@ -1,3 +1,8 @@
+Turns out I started a repo without looking around the Internet first...
+There's already something like this: https://github.com/mrnossiom/wakatime-lsp
+
+---
+
 # WakaLSP 
 
 This is a (arguably hacky) way to create [Wakatime Editor Plugins](https://wakatime.com/help/creating-plugin) through an LSP server.
