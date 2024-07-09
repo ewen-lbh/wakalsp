@@ -1,6 +1,11 @@
 Turns out I started a repo without looking around the Internet first...
 There's already something like this: https://github.com/mrnossiom/wakatime-lsp
 
+If you're looking for the Zed plugin:
+https://github.com/ewen-lbh/zed-wakatime
+
+Context: https://github.com/zed-industries/extensions/issues/497
+
 ---
 
 # WakaLSP 
